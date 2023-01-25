@@ -2,7 +2,7 @@
 - 👀 I’m interested to build website
 - 🌱 I’m currently learning everything🤣
 - 💞️ I’m looking to collaborate with other content creater
-- 📫🥅 2023 Goal ...ooh i forgot 🤣🤣🤣
+- 📫🥅 2023 Goal ...ooh i forgot 🤣🤣🤣🤣
 
 <!---
 Anshul-0807/Anshul-0807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
