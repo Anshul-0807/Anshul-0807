@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anshul
 - 👀 I’m interested to build website
 - 🌱 I’m currently learning everything🤣
-- 💞️ I’m looking to collaborate with other content creater
+- 🤝 I’m looking to collaborate with other content creater
 - 📫🥅 2023 Goal ...ooh i forgot 🤣🤣🤣🤣
 
 <!---
