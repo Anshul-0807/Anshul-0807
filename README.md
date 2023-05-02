@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anshul
+- 👋 Hii, I’m Anshul
 - 👀 I’m interested to build website
 - 🌱 I’m currently learning everything🤣
 - 🤝 I’m looking to collaborate with other content creater..
