@@ -1,5 +1,5 @@
 - 👋 Hii, I’m Anshul
-- 👀 I’m interested to build website.
+- 👀 a full stack web-developer and a data scientist.
 - ⏳ Code, data, and insights: Unleashing the magic of machine learning.
 - 🌱 I’m currently learning everything🤣
 - 🤝 I’m looking to collaborate with other content creater..
