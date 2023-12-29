@@ -1,9 +1,9 @@
-- 👋 Hii, I’m Anshul.
+- 👋 Hii, I’m Anshul
 - 👀 Data scientist and a Full stack web-developer.
 - ⏳ Code, data, and insights: Unleashing the magic of machine learning...
 - 🌱 I’m currently learning everything🤣
 - 🤝 I’m looking to collaborate with other content creater..
-- 📫🥅 2024 Goal ...keep maintain consistency
+- 📫🥅 2024 Goal ........
 
 <!---
 Anshul-0807/Anshul-0807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
