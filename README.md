@@ -3,7 +3,7 @@
 - ⏳ Code, data, and insights: Unleashing the magic of machine learning...
 - 🌱 I’m currently learning everything🤣
 - 🤝 I’m looking to collaborate with other content creater.
-- 📫🥅 2024 target..........💻💻💻
+- 📫🥅 2024 target..........💻💻
 
 <!---
 Anshul-0807/Anshul-0807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
