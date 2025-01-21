@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul-0807&show_icons=true&locale=en&layout=compact" alt="anshul-0807" /></p>
